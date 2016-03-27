@@ -1,0 +1,26 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "react test1",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "webpack": "^1.12.14"
+  },
+  "devDependencies": {
+    "babel-core": "^6.7.4",
+    "babel-loader": "^6.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react1"
+  },
+  "author": "honggang zhao",
+  "license": "ISC"
+}
